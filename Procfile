@@ -1,0 +1,1 @@
+web: gunicorn tagger:APP -t 180
